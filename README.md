@@ -57,7 +57,7 @@ Set-AuthenticodeSignature -FilePath "ig_stealer.exe" -Certificate (Get-ChildItem
 
 ---
 
-## Files in This Folder
+## Files in This Folder (create folder and put these files in that folder other files and folders in this repo are not important)
 
 | File | Purpose |
 |---|---|
